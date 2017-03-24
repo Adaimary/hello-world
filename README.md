@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-Hey I am arit Daimary and I am new to github.
+Hey I am amrit Daimary.
+I am new to github.
